@@ -1,0 +1,18 @@
+c:\users\eminergunay\documents\visual studio 2013\Projects\20170421\KasapDoner\bin\Debug\KasapDoner.exe.config
+c:\users\eminergunay\documents\visual studio 2013\Projects\20170421\KasapDoner\bin\Debug\KasapDoner.exe
+c:\users\eminergunay\documents\visual studio 2013\Projects\20170421\KasapDoner\bin\Debug\KasapDoner.pdb
+c:\users\eminergunay\documents\visual studio 2013\Projects\20170421\KasapDoner\obj\Debug\KasapDoner.csprojResolveAssemblyReference.cache
+c:\users\eminergunay\documents\visual studio 2013\Projects\20170421\KasapDoner\obj\Debug\KasapDoner.Properties.Resources.resources
+c:\users\eminergunay\documents\visual studio 2013\Projects\20170421\KasapDoner\obj\Debug\KasapDoner.csproj.GenerateResource.Cache
+c:\users\eminergunay\documents\visual studio 2013\Projects\20170421\KasapDoner\obj\Debug\KasapDoner.exe
+c:\users\eminergunay\documents\visual studio 2013\Projects\20170421\KasapDoner\obj\Debug\KasapDoner.pdb
+C:\Users\eminergunay\Documents\Visual Studio 2013\Projects\20170421\KasapDoner\obj\Debug\KasapDoner.KasapDonerForm.resources
+C:\Users\Crnyvrtrk\Downloads\20170421\20170421\KasapDoner\bin\Debug\KasapDoner.exe.config
+C:\Users\Crnyvrtrk\Downloads\20170421\20170421\KasapDoner\obj\Debug\KasapDoner.exe
+C:\Users\Crnyvrtrk\Downloads\20170421\20170421\KasapDoner\obj\Debug\KasapDoner.pdb
+C:\Users\Crnyvrtrk\Downloads\20170421\20170421\KasapDoner\bin\Debug\KasapDoner.exe
+C:\Users\Crnyvrtrk\Downloads\20170421\20170421\KasapDoner\bin\Debug\KasapDoner.pdb
+C:\Users\Crnyvrtrk\Downloads\20170421\20170421\KasapDoner\obj\Debug\KasapDoner.csprojResolveAssemblyReference.cache
+C:\Users\Crnyvrtrk\Downloads\20170421\20170421\KasapDoner\obj\Debug\KasapDoner.KasapDonerForm.resources
+C:\Users\Crnyvrtrk\Downloads\20170421\20170421\KasapDoner\obj\Debug\KasapDoner.Properties.Resources.resources
+C:\Users\Crnyvrtrk\Downloads\20170421\20170421\KasapDoner\obj\Debug\KasapDoner.csproj.GenerateResource.Cache
